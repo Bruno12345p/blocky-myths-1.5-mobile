@@ -2,23 +2,23 @@
  "staticCam": false,
  "positions": {
   "bf": [
-   720,
-   260
+   2110,
+   1020
   ],
   "gf": [
-   175,
-   -75
+   1380,
+   670
   ],
-  "dad": [
-   100,
-   100
+  "e303": [
+   810,
+   920
   ]
  },
- "camZoom": 0.55,
+ "camZoom": 0.45,
  "directory": "",
  "hasGF": true,
  "camPosition": [
-  639,
-  359
+  1847,
+  1213
  ]
 }

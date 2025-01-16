@@ -2,23 +2,23 @@
  "staticCam": false,
  "positions": {
   "bf": [
-   720,
-   260
+   1912,
+   886
   ],
   "gf": [
-   175,
-   -75
+   2700,
+   890
   ],
-  "dad": [
-   100,
-   100
+  "2010Herobrine": [
+   830,
+   910
   ]
  },
- "camZoom": 0.55,
+ "camZoom": 0.5,
  "directory": "",
- "hasGF": true,
+ "hasGF": false,
  "camPosition": [
-  639,
-  359
+  1368,
+  1194
  ]
 }

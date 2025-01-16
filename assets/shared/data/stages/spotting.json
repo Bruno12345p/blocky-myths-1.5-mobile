@@ -1,0 +1,36 @@
+{
+    "staticCam": false,
+    "positions": {
+        "bf": [
+            2920,
+            1480
+        ],
+        "bf-NUP": [
+            2920,
+            1480
+        ],
+        "gf": [
+            3000,
+            1190
+        ],
+        "recreated": [
+            40,
+            170
+        ],
+        "herobrineCape": [
+            1140,
+            940
+        ],
+        "danger1": [
+            1000,
+            890
+        ]
+    },
+    "camZoom": 0.4,
+    "directory": "",
+    "hasGF": true,
+    "camPosition": [
+        2060,
+        1440
+    ]
+}

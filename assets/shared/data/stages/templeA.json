@@ -1,0 +1,24 @@
+{
+ "staticCam": false,
+ "positions": {
+  "notch": [
+   3880,
+   1220
+  ],
+  "gf": [
+   400,
+   130
+  ],
+  "herobrineCape": [
+   1600,
+   1010
+  ]
+ },
+ "camZoom": 0.35,
+ "directory": "shared",
+ "hasGF": false,
+ "camPosition": [
+  3048,
+  1449
+ ]
+}

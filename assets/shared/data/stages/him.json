@@ -1,0 +1,24 @@
+{
+ "staticCam": true,
+ "positions": {
+  "himBF": [
+   1055,
+   366
+  ],
+  "him": [
+   160,
+   220
+  ],
+  "gf": [
+   400,
+   130
+  ]
+ },
+ "camZoom": 1.2,
+ "directory": "shared",
+ "hasGF": false,
+ "camPosition": [
+  741.5,
+  466.5
+ ]
+}

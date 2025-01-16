@@ -1,0 +1,28 @@
+{
+ "staticCam": false,
+ "positions": {
+  "bf": [
+    2920,
+    1480
+  ],
+  "bf-eup": [
+    2920,
+    1480
+  ],
+  "danger1": [
+   1000,
+   890
+  ],
+  "gf": [
+    3000,
+    1190
+  ]
+ },
+ "camZoom": 0.45,
+ "directory": "shared",
+ "hasGF": true,
+ "camPosition": [
+  2914,
+  1692
+ ]
+}

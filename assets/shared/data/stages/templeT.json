@@ -1,0 +1,24 @@
+{
+ "staticCam": false,
+ "positions": {
+  "bf": [
+   1870,
+   780
+  ],
+  "gf": [
+   1130,
+   450
+  ],
+  "notchtut": [
+   890,
+   740
+  ]
+ },
+ "camZoom": 0.6,
+ "directory": "shared",
+ "hasGF": true,
+ "camPosition": [
+  1585.5,
+  1040.5
+ ]
+}

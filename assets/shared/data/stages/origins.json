@@ -2,23 +2,23 @@
  "staticCam": false,
  "positions": {
   "bf": [
-   720,
-   260
+   2370,
+   970
+  ],
+  "herobrineog": [
+   1010,
+   440
   ],
   "gf": [
-   175,
-   -75
-  ],
-  "dad": [
-   100,
-   100
+   1810,
+   600
   ]
  },
- "camZoom": 0.55,
+ "camZoom": 0.5,
  "directory": "",
  "hasGF": true,
  "camPosition": [
-  639,
-  359
+  1922,
+  900
  ]
 }
