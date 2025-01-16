@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="intro.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="go" x="1" y="1" width="558" height="430"/>
-	<SubTexture name="ready" x="562" y="1" width="757" height="364"/>
-	<SubTexture name="set" x="1322" y="1" width="702" height="322"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="intro.png" width="1063" height="362">
+	<SubTexture name="go" x="668" y="1" width="394" height="234" frameX="-82" frameY="-98" frameWidth="558" frameHeight="430"/>
+	<SubTexture name="ready" x="1" y="1" width="662" height="147" frameX="-47" frameY="-108" frameWidth="757" frameHeight="364"/>
+	<SubTexture name="set" x="1" y="153" width="662" height="208" frameX="-47" frameY="-78" frameWidth="757" frameHeight="364"/>
 </TextureAtlas>
