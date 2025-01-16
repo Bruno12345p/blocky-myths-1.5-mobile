@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="invis_Arrows.png" width="157" height="154">
+	<SubTexture name="blue alone0000" x="0" y="0" width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="green alone0000" x="0" y="0" width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="purple alone0000" x="0" y="0" width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="red alone0000" x="0" y="0" width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
+</TextureAtlas>
