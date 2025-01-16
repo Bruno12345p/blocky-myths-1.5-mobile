@@ -1,58 +1,71 @@
 {
- "animations": [
-  {
-   "offsets": [
-    37,
-    11
-   ],
-   "frameRate": 24,
-   "frameIndices": [],
-   "prefix": "BF dies",
-   "looped": false,
-   "name": "firstDeath"
-  },
-  {
-   "offsets": [
-    37,
-    5
-   ],
-   "frameRate": 24,
-   "frameIndices": [],
-   "prefix": "BF Dead Loop",
-   "looped": false,
-   "name": "deathLoop"
-  },
-  {
-   "offsets": [
-    37,
-    69
-   ],
-   "frameRate": 24,
-   "frameIndices": [],
-   "prefix": "BF Dead confirm",
-   "looped": false,
-   "name": "deathConfirm"
-  }
- ],
- "barType": "rgb",
- "camPos": [
-  0,
-  0
- ],
- "flipAnimations": false,
- "flipX": false,
- "healthicon": "bf-dead",
- "rgbArray": [
-  49,
-  176,
-  209
- ],
- "asset": [
-  "characters/bfDEAD"
- ],
- "startingAnim": "idle",
- "iconAnimated": false,
- "deadChar": "bf-dead",
- "name": "bf-dead",
- "scale": 1
-}
+  "animations": [
+   {
+    "offsets": [
+     0,
+     0
+    ],
+    "frameIndices": [],
+    "prefix": "death0",
+    "isDanced": false,
+    "looped": false,
+    "name": "firstDeath",
+    "interrupt": false,
+    "nextAnim": "",
+    "frameRate": 24
+   },
+   {
+    "offsets": [
+     -370,
+     -417
+    ],
+    "frameIndices": [],
+    "prefix": "deathIdle",
+    "isDanced": false,
+    "looped": false,
+    "name": "deathLoop",
+    "interrupt": false,
+    "nextAnim": "",
+    "frameRate": 24
+   },
+   {
+    "offsets": [
+     -370,
+     -397
+    ],
+    "frameIndices": [],
+    "prefix": "deathIdle",
+    "isDanced": false,
+    "looped": false,
+    "name": "deathConfirm",
+    "interrupt": false,
+    "nextAnim": "",
+    "frameRate": 24
+   }
+  ],
+  "barType": "rgb",
+  "hasTrail": false,
+  "isDancing": false,
+  "camPos": [
+   150,
+   -100
+  ],
+  "holdLength": 6.1,
+  "flipAnimations": false,
+  "flipX": false,
+  "healthicon": "bf",
+  "rgbArray": [
+   102,
+   221,
+   255
+  ],
+  "asset": [
+   "characters/bfDead"
+  ],
+  "startingAnim": "idle",
+  "antialiasing": true,
+  "deadChar": "",
+  "name": "bf-dead",
+  "replacesGF": false,
+  "scale": 1
+ }

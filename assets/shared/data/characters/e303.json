@@ -1,0 +1,61 @@
+{
+  "name": "Entity 303",
+  "asset": [
+    "characters/entity303"
+  ],
+  "barColor": "#AF66CE",
+  "startingAnim": "idle",
+  "holdLength": 4,
+  "camPos": [
+    225,
+    -100
+  ],
+  "healthicon": "entity",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Entity 303 303 idle",
+      "frameRate": 16,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "Entity 303 303 up",
+      "frameRate": 16,
+      "offsets": [
+        -50,
+        30
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Entity 303 303 left",
+      "frameRate": 16,
+      "offsets": [
+        10,
+        0
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "frameRate": 16,
+      "prefix": "Entity 303 303 right",
+      "offsets": [
+        -40,
+        10
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Entity 303 303 down",
+      "frameRate": 16,
+      "offsets": [
+        -50,
+        0
+      ]
+    }
+  ]
+}

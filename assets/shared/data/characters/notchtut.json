@@ -1,0 +1,74 @@
+{
+  "name": "Notch",
+  "asset": [
+    "characters/NotchStartup"
+  ],
+  "barColor": "#AF66CE",
+  "startingAnim": "idle",
+  "holdLength": 5.2,
+  "camPos": [
+    150,
+    -100
+  ],
+  "healthicon": "notchstartup",
+  "barType": "rgb",
+  "rgbArray": [
+    123,
+    69,
+    44
+  ],
+  "scale": 0.9,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "looped": true,
+      "offsets": [
+        1,
+        -3
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "offsets": [
+        72,
+        89
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "offsets": [
+        55,
+        -7
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "offsets": [
+        -52,
+        -22
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "offsets": [
+        25,
+        -73
+      ]
+    },
+    {
+      "name": "Hey",
+      "prefix": "lol",
+      "looped": false,
+      "interrupt": false,
+      "offsets": [
+        61,
+        -4
+      ]
+    }
+  ]
+}

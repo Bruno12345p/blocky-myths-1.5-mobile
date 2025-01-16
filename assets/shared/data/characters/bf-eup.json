@@ -1,0 +1,191 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    -77,
+    -10
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "idle-faceup",
+   "name": "idle",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -130,
+    26
+   ],
+   "frameRate": 24,
+   "frameIndices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "prefix": "up alt",
+   "name": "singUP",
+   "looped": false
+  },
+  {
+   "offsets": [
+    29,
+    -29
+   ],
+   "frameRate": 24,
+   "frameIndices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "prefix": "right alt",
+   "name": "singLEFT",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -128,
+    5
+   ],
+   "frameRate": 24,
+   "frameIndices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "prefix": "left alt",
+   "name": "singRIGHT",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -70,
+    39
+   ],
+   "frameRate": 24,
+   "frameIndices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "prefix": "down alt",
+   "name": "singDOWN",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -120,
+    25
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "up alt miss",
+   "name": "singUPmiss",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -7,
+    -37
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "right alt miss",
+   "name": "singLEFTmiss",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -120,
+    3
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "left alt miss",
+   "name": "singRIGHTmiss",
+   "looped": false
+  },
+  {
+   "offsets": [
+    -93,
+    39
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "down alt miss",
+   "name": "singDOWNmiss",
+   "looped": false
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  -100,
+  -100
+ ],
+ "holdLength": 4,
+ "flipAnimations": true,
+ "flipX": false,
+ "healthicon": "bf",
+ "rgbArray": [
+  104,
+  220,
+  255
+ ],
+ "asset": [
+  "characters/bf"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "bf-dead",
+ "name": "bf-eup",
+ "replacesGF": false,
+ "scale": 1
+}

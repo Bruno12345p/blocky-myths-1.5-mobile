@@ -1,0 +1,138 @@
+{
+  "name": "Notch",
+  "asset": [
+    "characters/notch"
+  ],
+  "barColor": "#AF66CE",
+  "deadChar": "notch-dead",
+  "startingAnim": "idle",
+  "holdLength": 6.1,
+  "flipAnimations": false,
+  "camPos": [
+    -475,
+    -100
+  ],
+  "healthicon": "notch",
+  "barType": "rgb",
+  "rgbArray": [
+    123,
+    69,
+    44
+  ],
+  "scale": 1,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Notch Idle",
+      "looped": true,
+      "frameRate": 10,
+      "offsets": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "Notch Up",
+      "frameRate": 12,
+      "offsets": [
+        39,
+        11
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Notch Left",
+      "frameRate": 12,
+      "offsets": [
+        52,
+        2
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "Notch Right",
+      "frameRate": 12,
+      "offsets": [
+        -3,
+        -28
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Notch Down",
+      "frameRate": 12,
+      "offsets": [
+        29,
+        -29
+      ]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "Notch Miss",
+      "offsets": [
+        -88,
+        -122
+      ]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "Notch Miss",
+      "offsets": [
+        -88,
+        -122
+      ]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "Notch Miss",
+      "offsets": [
+        -88,
+        -122
+      ]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "Notch Miss",
+      "offsets": [
+        -88,
+        -122
+      ]
+    },
+    {
+      "name": "eat",
+      "prefix": "Notch Eat",
+      "frameRate": 24,
+      "offsets": [
+        -56,
+        846
+      ],
+      "interrupt": false,
+      "frameIndices": [
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0,
+        3,
+        2,
+        1,
+        0,
+        3,
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

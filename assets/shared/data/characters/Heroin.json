@@ -1,0 +1,105 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "nextAnim": "idleLoop",
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "Idle",
+            "interrupt": false,
+            "looped": false,
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 12,
+            "prefix": "Idle",
+            "frameIndices": [
+                11,
+                12
+            ],
+            "interrupt": false,
+            "looped": true,
+            "name": "idleLoop"
+        },
+        {
+            "offsets": [
+                -6,
+                50
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "Up",
+            "interrupt": false,
+            "looped": false,
+            "name": "singUP"
+        },
+        {
+            "offsets": [
+                320,
+                193
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "Left",
+            "interrupt": false,
+            "looped": false,
+            "name": "singLEFT"
+        },
+        {
+            "offsets": [
+                0,
+                8
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "Right",
+            "interrupt": false,
+            "looped": false,
+            "name": "singRIGHT"
+        },
+        {
+            "offsets": [
+                141,
+                173
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "Down",
+            "interrupt": false,
+            "looped": false,
+            "name": "singDOWN"
+        }
+    ],
+    "barType": "rgb",
+    "hasTrail": false,
+    "isDancing": false,
+    "camPos": [
+        -175,
+        -300
+    ],
+    "holdLength": 6.1,
+    "flipAnimations": false,
+    "flipX": false,
+    "healthicon": "herobrineaff",
+    "rgbArray": [
+        0,
+        0,
+        0
+    ],
+    "asset": [
+        "characters/Heroin"
+    ],
+    "startingAnim": "idle",
+    "antialiasing": true,
+    "deadChar": "",
+    "name": "Heroin",
+    "replacesGF": false,
+    "scale": 1
+}

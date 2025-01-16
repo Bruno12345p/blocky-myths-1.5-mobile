@@ -1,0 +1,104 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    -27,
+    -16
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "idle-up",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "prefix": "up0",
+   "offsets": [
+    -100,
+    35
+   ],
+   "name": "singUP"
+  },
+  {
+   "prefix": "left0",
+   "offsets": [
+    -34,
+    -13
+   ],
+   "name": "singLEFT"
+  },
+  {
+   "prefix": "right0",
+   "offsets": [
+    -97,
+    -5
+   ],
+   "name": "singRIGHT"
+  },
+  {
+   "prefix": "down0",
+   "offsets": [
+    -57,
+    -57
+   ],
+   "name": "singDOWN"
+  },
+  {
+   "prefix": "up miss0",
+   "offsets": [
+    -95,
+    36
+   ],
+   "name": "singUPmiss"
+  },
+  {
+   "prefix": "left miss0",
+   "offsets": [
+    -90,
+    -2
+   ],
+   "name": "singLEFTmiss"
+  },
+  {
+   "prefix": "right miss0",
+   "offsets": [
+    -35,
+    -29
+   ],
+   "name": "singRIGHTmiss"
+  },
+  {
+   "prefix": "down miss0",
+   "offsets": [
+    -59,
+    -48
+   ],
+   "name": "singDOWNmiss"
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  -100,
+  -100
+ ],
+ "holdLength": 4,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "bf",
+ "rgbArray": [
+  104,
+  220,
+  255
+ ],
+ "asset": [
+  "characters/bf"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "bf-dead",
+ "name": "bf-NUP",
+ "replacesGF": false,
+ "scale": 1
+}

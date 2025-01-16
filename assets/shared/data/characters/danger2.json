@@ -1,0 +1,90 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    -10,
+    100
+   ],
+   "prefix": "Herobrine Danger Idle",
+   "looped": true,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    -90,
+    210
+   ],
+   "prefix": "Herobrine Danger Up",
+   "looped": true,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    200,
+    120
+   ],
+   "prefix": "Herobrine Danger Left",
+   "frameIndices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "name": "singLEFT",
+   "looped": true
+  },
+  {
+   "offsets": [
+    -100,
+    130
+   ],
+   "prefix": "Herobrine Danger Right",
+   "looped": true,
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    -40,
+    150
+   ],
+   "prefix": "Herobrine Danger Down",
+   "looped": true,
+   "name": "singDOWN"
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  200,
+  50
+ ],
+ "holdLength": 4,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "herobrine",
+ "rgbArray": [
+  16,
+  15,
+  97
+ ],
+ "asset": [
+  "characters/dangerHero2"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "danger2",
+ "replacesGF": false,
+ "scale": 1.1
+}

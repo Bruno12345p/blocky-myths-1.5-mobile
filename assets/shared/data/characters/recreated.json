@@ -1,0 +1,99 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "nextAnim": "idleLoop",
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "HEROBRINE2 IDLE",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "frameRate": 12,
+   "prefix": "HEROBRINE2 IDLE",
+   "frameIndices": [
+    11,
+    12
+   ],
+   "looped": true,
+   "name": "idleLoop"
+  },
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "HEROBRINE2 UP",
+   "looped": false,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "HEROBRINE2 LEFT",
+   "looped": false,
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "HEROBRINE2 RIGHT",
+   "looped": false,
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    -550,
+    -300
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "HEROBRINE2 DOWN",
+   "looped": false,
+   "name": "singDOWN"
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  1200,
+  500
+ ],
+ "holdLength": 6.1,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "herobrine",
+ "rgbArray": [
+  16,
+  15,
+  97
+ ],
+ "asset": [
+  "characters/recreated"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "recreated",
+ "replacesGF": false,
+ "scale": 0.7
+}

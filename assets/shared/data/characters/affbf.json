@@ -1,0 +1,89 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "bf idle",
+            "interrupt": false,
+            "name": "idle",
+            "looped": true
+        },
+        {
+            "offsets": [
+                20,
+                70
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "bf up",
+            "interrupt": true,
+            "looped": false,
+            "name": "singUP"
+        },
+        {
+            "offsets": [
+                110,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "bf left",
+            "interrupt": true,
+            "looped": false,
+            "name": "singLEFT"
+        },
+        {
+            "offsets": [
+                -90,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "bf right",
+            "interrupt": true,
+            "looped": false,
+            "name": "singRIGHT"
+        },
+        {
+            "offsets": [
+                20,
+                -45
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "bf down",
+            "interrupt": true,
+            "looped": false,
+            "name": "singDOWN"
+        }
+    ],
+    "barType": "rgb",
+    "hasTrail": false,
+    "isDancing": false,
+    "camPos": [
+        -200,
+        -100
+    ],
+    "holdLength": 4,
+    "flipAnimations": false,
+    "flipX": false,
+    "healthicon": "bfaff",
+    "rgbArray": [
+        255,
+        255,
+        255
+    ],
+    "asset": [
+        "characters/AFFBF"
+    ],
+    "startingAnim": "idle",
+    "antialiasing": true,
+    "deadChar": "",
+    "name": "affbf",
+    "replacesGF": false,
+    "scale": 1
+}

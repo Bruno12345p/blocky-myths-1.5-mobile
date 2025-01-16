@@ -1,0 +1,70 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    0,
+    0
+   ],
+   "prefix": "idle",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    -90,
+    210
+   ],
+   "prefix": "up",
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    130,
+    0
+   ],
+   "prefix": "left",
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    -140,
+    0
+   ],
+   "prefix": "right",
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    -60,
+    -110
+   ],
+   "prefix": "down",
+   "name": "singDOWN"
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  200,
+  50
+ ],
+ "holdLength": 4,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "herobrine",
+ "rgbArray": [
+  16,
+  15,
+  97
+ ],
+ "asset": [
+  "characters/dangerHero1"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "danger1",
+ "replacesGF": false,
+ "scale": 1.1
+}

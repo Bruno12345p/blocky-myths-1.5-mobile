@@ -1,0 +1,58 @@
+{
+  "name": "2010 Herobrine",
+  "asset": [
+    "characters/2010Herobrine"
+  ],
+  "barColor": "#AF66CE",
+  "startingAnim": "idle",
+  "holdLength": 6.1,
+  "camPos": [
+    400,
+    -50
+  ],
+  "healthicon": "2010herobrine",
+  "scale": 1,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "2010Herobrine idle",
+      "offsets": [
+        0,
+        0
+      ],
+      "frameRate": 12
+    },
+    {
+      "name": "singUP",
+      "prefix": "2010Herobrine Up",
+      "offsets": [
+        -20,
+        5
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "2010Herobrine Left",
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "2010Herobrine right",
+      "offsets": [
+        -5,
+        0
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "2010Herobrine Down",
+      "offsets": [
+        1,
+        0
+      ]
+    }
+  ]
+}

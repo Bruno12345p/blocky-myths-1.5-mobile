@@ -1,0 +1,132 @@
+{
+  "name": "Notch",
+  "asset": [
+    "characters/godNotch"
+  ],
+  "barColor": "#AF66CE",
+  "deadChar": "notchgod-dead",
+  "startingAnim": "idle",
+  "holdLength": 6.1,
+  "flipAnimations": false,
+  "camPos": [
+    -200,
+    100
+  ],
+  "healthicon": "notchgod",
+  "barType": "rgb",
+  "rgbArray": [
+    191,
+    98,
+    27
+  ],
+  "scale": 1.1,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "NotchGod Idle",
+      "looped": true,
+      "frameRate": 10,
+      "offsets": [
+       0,
+      0
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "NotchGod Up",
+      "frameRate": 12,
+      "offsets": [
+        80,
+        20
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "NotchGod Left",
+      "frameRate": 12,
+      "offsets": [
+        140,
+        10
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "NotchGod Right",
+      "frameRate": 12,
+      "offsets": [
+        -30,
+        -30
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "NotchGod Down",
+      "frameRate": 12,
+      "offsets": [
+        -20,
+        -20
+      ]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "NotchGod Miss",
+      "offsets": [
+       0,
+      0
+      ]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "NotchGod Miss",
+      "offsets": [
+       0,
+      0
+      ]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "NotchGod Miss",
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "NotchGod Miss",
+      "offsets": [
+       0,
+      0
+      ]
+    },
+    {
+      "name": "land",
+      "prefix": "NotchGod Landing",
+      "frameRate": 18,
+      "frameIndices": [
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "offsets": [
+        290,
+        -120
+      ],
+      "interrupt": false
+    }
+  ]
+}

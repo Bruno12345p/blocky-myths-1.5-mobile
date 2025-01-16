@@ -1,0 +1,63 @@
+{
+  "name": "Herobrine",
+  "asset": [
+    "characters/herobrinestand"
+  ],
+  "barColor": "#AF66CE",
+  "startingAnim": "idle",
+  "holdLength": 6.1,
+  "camPos": [
+    150,
+    120
+  ],
+  "healthicon": "herobrine",
+  "barType": "rgb",
+  "rgbArray": [
+    16,
+    15,
+    97
+  ],
+  "scale": 1.1,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle0",
+      "offsets": [
+       -90,
+      -130
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "offsets": [
+       -30,
+      -105
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "offsets": [
+      -10,
+      -90
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "offsets": [
+        -85,
+        -120
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "offsets": [
+       20,
+      -360
+      ]
+    }
+  ]
+}

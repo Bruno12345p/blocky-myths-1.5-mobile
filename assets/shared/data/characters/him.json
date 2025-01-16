@@ -1,0 +1,79 @@
+{
+  "name": "him.",
+  "asset": [
+    "characters/him"
+  ],
+  "barColor": "#AF66CE",
+  "barType": "rgb",
+  "rgbArray": [
+    16,
+    15,
+    97
+  ],
+  "scale": 1.35,
+  "startingAnim": "idle",
+  "holdLength": 6.1,
+  "camPos": [
+    150,
+    -100
+  ],
+  "healthicon": "herobrine",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "looped": true,
+      "frameRate": 12,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "frameRate": 12,
+      "offsets": [
+        -8,
+        0
+      ]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "frameRate": 12,
+      "offsets": [
+        -12,
+        1
+      ]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "frameRate": 12,
+      "offsets": [
+        10,
+        0
+      ]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "frameRate": 12,
+      "offsets": [
+        2,
+        0
+      ]
+    },
+    {
+      "name": "stare",
+      "prefix": "stare",
+      "frameRate": 12,
+      "interrupt": false,
+      "offsets": [
+        0,
+        1
+      ]
+    }
+  ]
+}

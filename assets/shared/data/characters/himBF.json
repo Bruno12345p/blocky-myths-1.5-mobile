@@ -1,0 +1,115 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    1,
+    -1
+   ],
+   "prefix": "idle",
+   "frameRate": 12,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    -4,
+    0
+   ],
+   "prefix": "up0",
+   "frameRate": 12,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    -3,
+    -2
+   ],
+   "prefix": "left0",
+   "frameRate": 12,
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    1,
+    0
+   ],
+   "frameRate": 12,
+   "frameIndices": [
+    0,
+    1,
+    2
+   ],
+   "prefix": "right0",
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    -1,
+    0
+   ],
+   "prefix": "down0",
+   "frameRate": 12,
+   "name": "singDOWN"
+  },
+  {
+   "offsets": [
+    -3,
+    0
+   ],
+   "prefix": "upmiss",
+   "frameRate": 12,
+   "name": "singUPmiss"
+  },
+  {
+   "offsets": [
+    0,
+    0
+   ],
+   "prefix": "leftmiss",
+   "frameRate": 12,
+   "name": "singLEFTmiss"
+  },
+  {
+   "offsets": [
+    -2,
+    -2
+   ],
+   "prefix": "rightmiss",
+   "frameRate": 12,
+   "name": "singRIGHTmiss"
+  },
+  {
+   "offsets": [
+    -11,
+    -19
+   ],
+   "prefix": "downmiss",
+   "frameRate": 12,
+   "name": "singDOWNmiss"
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  -100,
+  -100
+ ],
+ "holdLength": 4,
+ "flipAnimations": true,
+ "flipX": false,
+ "healthicon": "bf",
+ "rgbArray": [
+  102,
+  221,
+  255
+ ],
+ "asset": [
+  "characters/himBF"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "bf-dead",
+ "name": "himBF",
+ "replacesGF": false,
+ "scale": 1
+}

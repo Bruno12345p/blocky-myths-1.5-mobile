@@ -1,0 +1,83 @@
+{
+ "animations": [
+  {
+   "prefix": "idle",
+   "offsets": [
+    0,
+    0
+   ],
+   "name": "idle",
+   "looped": true
+  },
+  {
+   "prefix": "up",
+   "offsets": [
+    0,
+    100
+   ],
+   "name": "singUP"
+  },
+  {
+   "prefix": "left",
+   "offsets": [
+    80,
+    -80
+   ],
+   "name": "singLEFT"
+  },
+  {
+   "prefix": "right",
+   "offsets": [
+    -60,
+    -10
+   ],
+   "name": "singRIGHT"
+  },
+  {
+   "prefix": "down",
+   "offsets": [
+    60,
+    -120
+   ],
+   "name": "singDOWN"
+  },
+  {
+   "offsets": [
+    0,
+    750
+   ],
+   "frameRate": 25,
+   "frameIndices": [],
+   "prefix": "lighting",
+   "looped": false,
+   "name": "lightning",
+   "interrupt": true
+  }
+ ],
+ "barType": "rgb",
+ "hasTrail": false,
+ "isDancing": false,
+ "camPos": [
+  300,
+  150
+ ],
+ "holdLength": 6.1,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "herobrine",
+ "rgbArray": [
+  16,
+  15,
+  97
+ ],
+ "asset": [
+  "characters/herobrine",
+  "characters/lightning"
+ ],
+ "startingAnim": "idle",
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "herobrine",
+ "replacesGF": false,
+ "scale": 1
+}

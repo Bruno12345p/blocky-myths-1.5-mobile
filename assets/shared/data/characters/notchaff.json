@@ -1,0 +1,89 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "idle0",
+            "name": "idle",
+            "looped": false,
+            "interrupt": true
+        },
+        {
+            "offsets": [
+                10,
+                90
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "up0",
+            "name": "singUP",
+            "looped": false,
+            "interrupt": true
+        },
+        {
+            "offsets": [
+                70,
+                5
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "left0",
+            "name": "singLEFT",
+            "looped": false,
+            "interrupt": true
+        },
+        {
+            "offsets": [
+                -100,
+                -10
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "right0",
+            "name": "singRIGHT",
+            "looped": false,
+            "interrupt": true
+        },
+        {
+            "offsets": [
+                -10,
+                -60
+            ],
+            "frameRate": 24,
+            "frameIndices": [],
+            "prefix": "down0",
+            "name": "singDOWN",
+            "looped": false,
+            "interrupt": true
+        }
+    ],
+    "barType": "rgb",
+    "hasTrail": false,
+    "isDancing": false,
+    "camPos": [
+        50,
+        -200
+    ],
+    "holdLength": 4,
+    "flipAnimations": false,
+    "flipX": false,
+    "healthicon": "notchaff",
+    "rgbArray": [
+        255,
+        255,
+        255
+    ],
+    "asset": [
+        "characters/notchaff"
+    ],
+    "startingAnim": "idle",
+    "antialiasing": true,
+    "deadChar": "",
+    "name": "notchaff",
+    "replacesGF": false,
+    "scale": 1
+}
