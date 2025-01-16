@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TTorch.png">
+<SubTexture name="TTorch idle0000" x="946" y="0" width="277" height="403" frameX="-624" frameY="-204" frameWidth="2200" frameHeight="1080" />
+<SubTexture name="TTorch idle0001" x="645" y="0" width="301" height="479" frameX="-676" frameY="-250" frameWidth="2200" frameHeight="1080" />
+<SubTexture name="TTorch idle0002" x="0" y="0" width="645" height="665" frameX="-467" frameY="-81" frameWidth="2200" frameHeight="1080" />
+</TextureAtlas>
