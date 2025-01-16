@@ -4,3 +4,7 @@ Hurt
 Must Press
 No Animation
 GF
+Notch
+Invis
+Poison
+Speed
