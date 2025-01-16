@@ -91,7 +91,7 @@
 								<textfield id="animNextAnim" placeholder="" verticalAlign="center" />
 								<label text="Loop Animation" verticalAlign="center" />
 								<checkbox id="animLooped" verticalAlign="center" />
-								<label text="Ignore Idle" verticalAlign="center" />
+								<label text="Interrupt Idle" verticalAlign="center" />
 								<checkbox id="animIgnoreIdle" verticalAlign="center" />
 							</grid>
 							<menu-separator />
