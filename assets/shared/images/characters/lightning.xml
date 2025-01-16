@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="lightning.png" width="4199" height="4306">
+	<SubTexture name="lighting0000" x="3856.8" y="3349.6000000000004" width="336.8" height="603.2" frameX="-15.200000000000001" frameY="-764" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0001" x="3856.8" y="3349.6000000000004" width="336.8" height="603.2" frameX="-15.200000000000001" frameY="-764" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0002" x="1205.6000000000001" y="3605.6000000000004" width="331.20000000000005" height="604.8000000000001" frameX="-19.200000000000003" frameY="-763.2" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0003" x="1205.6000000000001" y="3605.6000000000004" width="331.20000000000005" height="604.8000000000001" frameX="-19.200000000000003" frameY="-763.2" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0004" x="1759.2" y="2554.4" width="288.8" height="606.4" frameX="-56.800000000000004" frameY="-761.6" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0005" x="0.8" y="0.8" width="1981.6000000000001" height="1364.8000000000002" frameX="-136" frameY="-1.6" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0006" x="0.8" y="0.8" width="1981.6000000000001" height="1364.8000000000002" frameX="-136" frameY="-1.6" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0007" x="2052" y="0.8" width="1170.4" height="1709.6000000000001" rotated="true" frameX="-138.4" frameY="-196.8" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0008" x="2052" y="0.8" width="1170.4" height="1709.6000000000001" rotated="true" frameX="-138.4" frameY="-196.8" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0009" x="2052" y="1712.8000000000002" width="1048.8" height="1756" rotated="true" frameX="-138.4" frameY="-318.40000000000003" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0010" x="0.8" y="2554.4" width="1756" height="1048.8" frameX="-138.4" frameY="-318.40000000000003" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0011" x="3224.8" y="0.8" width="973.6" height="1617.6000000000001" rotated="true" frameX="-136" frameY="-393.6" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0012" x="3224.8" y="0.8" width="973.6" height="1617.6000000000001" rotated="true" frameX="-136" frameY="-393.6" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0013" x="0.8" y="1368" width="2048.8" height="1184" frameX="-136" frameY="-183.20000000000002" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0014" x="0.8" y="1368" width="2048.8" height="1184" frameX="-136" frameY="-183.20000000000002" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0015" x="3103.2000000000003" y="1712.8000000000002" width="982.4000000000001" height="1634.4" rotated="true" frameX="-136" frameY="-384.8" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0016" x="3103.2000000000003" y="1712.8000000000002" width="982.4000000000001" height="1634.4" rotated="true" frameX="-136" frameY="-384.8" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0017" x="3103.2000000000003" y="3349.6000000000004" width="374.40000000000003" height="608.8000000000001" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0018" x="3103.2000000000003" y="3349.6000000000004" width="374.40000000000003" height="608.8000000000001" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0019" x="3480" y="3349.6000000000004" width="374.40000000000003" height="608.8000000000001" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0020" x="3480" y="3349.6000000000004" width="374.40000000000003" height="608.8000000000001" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0021" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0022" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0023" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0024" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0025" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0026" x="1759.2" y="3471.2000000000003" width="608.8000000000001" height="374.40000000000003" rotated="true" frameX="-136" frameY="-758.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0027" x="2370.4" y="3471.2000000000003" width="604.8000000000001" height="365.6" rotated="true" frameX="-136.8" frameY="-762.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0028" x="2370.4" y="3471.2000000000003" width="604.8000000000001" height="365.6" rotated="true" frameX="-136.8" frameY="-762.4000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0029" x="0.8" y="3605.6000000000004" width="599.2" height="363.20000000000005" rotated="true" frameX="-134.4" frameY="-768" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0030" x="1539.2" y="3848" width="603.2" height="320.8" rotated="true" frameX="-24.8" frameY="-764.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0031" x="1539.2" y="3848" width="603.2" height="320.8" rotated="true" frameX="-24.8" frameY="-764.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0032" x="602.4" y="3605.6000000000004" width="600.8000000000001" height="336.8" rotated="true" frameX="-12" frameY="-767.2" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0033" x="602.4" y="3605.6000000000004" width="600.8000000000001" height="336.8" rotated="true" frameX="-12" frameY="-767.2" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0034" x="2370.4" y="3839.2000000000003" width="599.2" height="336" rotated="true" frameX="-13.600000000000001" frameY="-768" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0035" x="2370.4" y="3839.2000000000003" width="599.2" height="336" rotated="true" frameX="-13.600000000000001" frameY="-768" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0036" x="602.4" y="3944.8" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0037" x="602.4" y="3944.8" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0038" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0039" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0040" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0041" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0042" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0043" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0044" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0045" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+	<SubTexture name="lighting0046" x="0.8" y="3971.2000000000003" width="598.4" height="334.40000000000003" rotated="true" frameX="-15.200000000000001" frameY="-768.8000000000001" frameWidth="2190.4" frameHeight="1375.2"/>
+</TextureAtlas>

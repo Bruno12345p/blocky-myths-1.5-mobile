@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="himBF.png" width="759" height="807">
+	<SubTexture name="idle0000" x="621" y="1" width="137" height="189" frameX="-46" frameY="-44" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="idle0001" x="483" y="1" width="135" height="191" frameX="-46" frameY="-43" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="idle0002" x="483" y="195" width="133" height="191" frameX="-46" frameY="-43" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="idle0003" x="483" y="195" width="133" height="191" frameX="-46" frameY="-43" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="idle0004" x="479" y="389" width="136" height="191" frameX="-47" frameY="-44" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="idle0005" x="479" y="389" width="136" height="191" frameX="-47" frameY="-44" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="left0000" x="241" y="1" width="118" height="207" frameX="-74" frameY="-27" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="left0001" x="245" y="211" width="113" height="203" frameX="-78" frameY="-31" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="left0002" x="245" y="211" width="113" height="203" frameX="-78" frameY="-31" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="right0000" x="1" y="434" width="112" height="198" frameX="-43" frameY="-35" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="right0001" x="231" y="434" width="121" height="195" frameX="-43" frameY="-38" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="right0002" x="231" y="434" width="121" height="195" frameX="-43" frameY="-38" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="down0000" x="315" y="632" width="152" height="166" frameX="-32" frameY="-69" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="down0001" x="1" y="635" width="154" height="171" frameX="-29" frameY="-62" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="down0002" x="1" y="635" width="154" height="171" frameX="-29" frameY="-62" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="up0000" x="1" y="1" width="117" height="216" frameX="-67" frameY="-17" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="up0001" x="1" y="220" width="119" height="211" frameX="-68" frameY="-23" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="up0002" x="1" y="220" width="119" height="211" frameX="-68" frameY="-23" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="leftmiss0000" x="362" y="1" width="118" height="207" frameX="-74" frameY="-27" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="leftmiss0001" x="361" y="211" width="113" height="203" frameX="-78" frameY="-31" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="leftmiss0002" x="361" y="211" width="113" height="203" frameX="-78" frameY="-31" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="rightmiss0000" x="116" y="434" width="112" height="198" frameX="-43" frameY="-35" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="rightmiss0001" x="355" y="417" width="121" height="195" frameX="-43" frameY="-38" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="rightmiss0002" x="355" y="417" width="121" height="195" frameX="-43" frameY="-38" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="downmiss0000" x="470" y="615" width="152" height="166" frameX="-32" frameY="-69" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="downmiss0001" x="158" y="635" width="154" height="171" frameX="-29" frameY="-62" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="downmiss0002" x="158" y="635" width="154" height="171" frameX="-29" frameY="-62" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="upmiss0000" x="121" y="1" width="117" height="216" frameX="-67" frameY="-17" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="upmiss0001" x="123" y="220" width="119" height="211" frameX="-68" frameY="-23" frameWidth="244" frameHeight="260"/>
+	<SubTexture name="upmiss0002" x="123" y="220" width="119" height="211" frameX="-68" frameY="-23" frameWidth="244" frameHeight="260"/>
+</TextureAtlas>
