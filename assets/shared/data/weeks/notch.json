@@ -1,12 +1,14 @@
 {
     "songs": [
-        "start-up"
+        "removed",
+        "snapshot",
+        "dead-brother"
     ],
     "characters": [
         "",
         "",
         ""
     ],
-    "weekName": "The Before Prologue",
+    "weekName": "The Prologue",
     "background": "notch"
 }
