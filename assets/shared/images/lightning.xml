@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="lightning.png" width="2985" height="2898">
+	<SubTexture name="lightning0000" x="2657.6000000000004" y="0.8" width="326.40000000000003" height="1123.2" frameX="-71.2" frameY="-0.8" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0001" x="0.8" y="1128" width="1124" height="464.8" rotated="true" frameX="-0" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0002" x="1198.4" y="0.8" width="415.20000000000005" height="1124" frameX="-48.800000000000004" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0003" x="0.8" y="1595.2" width="1124" height="356.8" rotated="true" frameX="-78.4" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0004" x="1616" y="0.8" width="368.8" height="1124" frameX="-65.60000000000001" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0005" x="0.8" y="1954.4" width="1124" height="380" rotated="true" frameX="-60" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0006" x="1127.2" y="1128" width="380" height="1124" frameX="-60" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0007" x="1509.6000000000001" y="1127.2" width="327.20000000000005" height="1124" frameX="-86.4" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0008" x="1987.2" y="0.8" width="327.20000000000005" height="1124" frameX="-86.4" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0009" x="1839.2" y="1127.2" width="338.40000000000003" height="1124" frameX="-80.80000000000001" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0010" x="2316.8" y="0.8" width="338.40000000000003" height="1124" frameX="-80.80000000000001" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0011" x="2180" y="1127.2" width="276" height="1124" frameX="-112" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0012" x="0.8" y="2336.8" width="1124" height="276" rotated="true" frameX="-112" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0013" x="1509.6000000000001" y="2253.6" width="1124" height="282.40000000000003" rotated="true" frameX="-108.80000000000001" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0014" x="0.8" y="2615.2000000000003" width="1124" height="282.40000000000003" rotated="true" frameX="-108.80000000000001" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0015" x="1127.2" y="2538.4" width="1124" height="240.8" rotated="true" frameX="-129.6" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0016" x="0.8" y="0.8" width="240.8" height="1124.8" frameX="-129.6" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0017" x="244" y="0.8" width="244.8" height="1124.8" frameX="-128" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0018" x="491.20000000000005" y="0.8" width="234.4" height="1124.8" frameX="-133.6" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0019" x="728" y="0.8" width="234.4" height="1124.8" frameX="-133.6" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+	<SubTexture name="lightning0020" x="964.8000000000001" y="0.8" width="231.20000000000002" height="1124.8" frameX="-134.4" frameY="-0" frameWidth="464.8" frameHeight="1124.8"/>
+</TextureAtlas>
