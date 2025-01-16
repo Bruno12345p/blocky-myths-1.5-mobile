@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="godNotch.png" width="3787" height="4023">
+	<SubTexture name="NotchGod Down0000" x="2281" y="2300" width="492" height="516" frameX="-67" frameY="-180" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0001" x="2281" y="2300" width="492" height="516" frameX="-67" frameY="-180" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0002" x="2283" y="1182" width="491" height="515" frameX="-68" frameY="-180" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0003" x="2357" y="1697" width="491" height="515" frameX="-68" frameY="-180" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0004" x="570" y="2774" width="490" height="516" frameX="-69" frameY="-180" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0005" x="0" y="2818" width="488" height="513" frameX="-71" frameY="-183" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0006" x="2774" y="1131" width="490" height="507" frameX="-72" frameY="-188" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Down0007" x="3213" y="2200" width="485" height="502" frameX="-77" frameY="-194" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0000" x="2868" y="570" width="398" height="557" frameX="-116" frameY="-159" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0001" x="2868" y="570" width="398" height="557" frameX="-116" frameY="-159" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0002" x="3266" y="562" width="398" height="557" frameX="-116" frameY="-159" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0003" x="3309" y="0" width="398" height="557" frameX="-116" frameY="-159" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0004" x="3288" y="1119" width="398" height="556" frameX="-116" frameY="-160" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0005" x="2713" y="3249" width="554" height="395" rotated="true" frameX="-119" frameY="-162" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0006" x="2147" y="3256" width="548" height="389" rotated="true" frameX="-123" frameY="-168" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Idle0007" x="1060" y="3215" width="546" height="384" rotated="true" frameX="-127" frameY="-170" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Landing0000" x="1709" y="2300" width="572" height="452" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0001" x="1709" y="2300" width="572" height="452" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0002" x="1709" y="2300" width="572" height="452" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0003" x="1709" y="2300" width="572" height="452" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0004" x="0" y="2366" width="570" height="452" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0005" x="1965" y="0" width="452" height="575" rotated="true" frameX="-84" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0006" x="2417" y="0" width="452" height="570" rotated="true" frameX="-86" frameY="-659" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0007" x="2419" y="570" width="449" height="561" rotated="true" frameX="-86" frameY="-662" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0008" x="3288" y="2702" width="433" height="553" rotated="true" frameX="-87" frameY="-678" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0009" x="1163" y="2300" width="546" height="476" frameX="-90" frameY="-615" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0010" x="0" y="0" width="573" height="943" frameX="-168" frameY="-163" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0011" x="573" y="0" width="491" height="760" frameX="-311" frameY="-257" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0012" x="0" y="943" width="594" height="511" rotated="true" frameX="-306" frameY="-125" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0013" x="0" y="1454" width="593" height="448" rotated="true" frameX="-359" frameY="-44" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0014" x="1217" y="1389" width="601" height="447" rotated="true" frameX="-360" frameY="-36" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0015" x="1520" y="626" width="438" height="613" frameX="-369" frameY="-24" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Landing0016" x="1527" y="0" width="438" height="613" frameX="-369" frameY="-24" frameWidth="896" frameHeight="1257"/>
+	<SubTexture name="NotchGod Left0000" x="1217" y="1836" width="570" height="464" rotated="true" frameX="-78" frameY="-155" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0001" x="1217" y="1836" width="570" height="464" rotated="true" frameX="-78" frameY="-155" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0002" x="593" y="1851" width="570" height="464" rotated="true" frameX="-78" frameY="-155" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0003" x="0" y="1902" width="570" height="464" rotated="true" frameX="-78" frameY="-155" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0004" x="1787" y="1836" width="570" height="464" rotated="true" frameX="-78" frameY="-155" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0005" x="1958" y="613" width="461" height="569" frameX="-83" frameY="-154" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0006" x="570" y="2315" width="565" height="459" rotated="true" frameX="-88" frameY="-154" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Left0007" x="1818" y="1239" width="465" height="565" frameX="-87" frameY="-151" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0000" x="594" y="760" width="463" height="634" frameX="-85" frameY="-122" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0001" x="594" y="760" width="463" height="634" frameX="-85" frameY="-122" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0002" x="594" y="760" width="463" height="634" frameX="-85" frameY="-122" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0003" x="594" y="760" width="463" height="634" frameX="-85" frameY="-122" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0004" x="594" y="760" width="463" height="634" frameX="-85" frameY="-122" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0005" x="1057" y="760" width="463" height="629" frameX="-84" frameY="-126" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0006" x="1064" y="0" width="463" height="626" frameX="-84" frameY="-129" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Miss0007" x="594" y="1394" width="623" height="457" rotated="true" frameX="-88" frameY="-132" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0000" x="3267" y="3639" width="518" height="379" rotated="true" frameX="-128" frameY="-173" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0001" x="3267" y="3639" width="518" height="379" rotated="true" frameX="-128" frameY="-173" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0002" x="3288" y="1675" width="380" height="518" frameX="-127" frameY="-173" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0003" x="3267" y="3639" width="518" height="379" rotated="true" frameX="-128" frameY="-173" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0004" x="2695" y="3644" width="518" height="379" rotated="true" frameX="-128" frameY="-173" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0005" x="3267" y="3255" width="520" height="384" rotated="true" frameX="-124" frameY="-171" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0006" x="488" y="3290" width="522" height="389" rotated="true" frameX="-121" frameY="-168" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Right0007" x="1606" y="3326" width="522" height="393" rotated="true" frameX="-118" frameY="-168" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0000" x="2848" y="1638" width="440" height="562" frameX="-95" frameY="-163" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0001" x="2848" y="1638" width="440" height="562" frameX="-95" frameY="-163" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0002" x="2869" y="0" width="440" height="562" frameX="-95" frameY="-163" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0003" x="2773" y="2212" width="440" height="563" frameX="-95" frameY="-163" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0004" x="2147" y="2816" width="566" height="440" rotated="true" frameX="-95" frameY="-160" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0005" x="1060" y="2776" width="572" height="439" rotated="true" frameX="-96" frameY="-154" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0006" x="1709" y="2752" width="438" height="574" frameX="-97" frameY="-152" frameWidth="630" frameHeight="875"/>
+	<SubTexture name="NotchGod Up0007" x="2713" y="2816" width="575" height="433" rotated="true" frameX="-102" frameY="-150" frameWidth="630" frameHeight="875"/>
+</TextureAtlas>

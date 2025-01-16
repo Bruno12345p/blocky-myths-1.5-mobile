@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="godNotchDead.png" width="2241" height="2053">
+	<SubTexture name="NotchGod Death0000" x="1441" y="740" width="351" height="478" frameX="-37" frameY="-32" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0001" x="1422" y="1524" width="331" height="480" frameX="-72" frameY="-32" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0002" x="1676" y="348" width="429" height="389" frameX="-73" frameY="-156" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0003" x="1753" y="1218" width="473" height="316" frameX="-120" frameY="-401" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0004" x="1746" y="0" width="495" height="321" frameX="-118" frameY="-566" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0005" x="449" y="1753" width="516" height="292" frameX="-107" frameY="-597" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0006" x="449" y="1527" width="522" height="226" frameX="-107" frameY="-669" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0007" x="449" y="1527" width="522" height="226" frameX="-107" frameY="-669" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0008" x="449" y="1527" width="522" height="226" frameX="-107" frameY="-669" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0009" x="449" y="1527" width="522" height="226" frameX="-107" frameY="-669" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0010" x="449" y="1527" width="522" height="226" frameX="-107" frameY="-669" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Death0011" x="0" y="0" width="618" height="238" frameX="-227" frameY="-378" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0012" x="0" y="238" width="618" height="256" frameX="-227" frameY="-360" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0013" x="0" y="494" width="605" height="283" frameX="-227" frameY="-333" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0014" x="618" y="0" width="599" height="311" frameX="-227" frameY="-305" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0015" x="618" y="311" width="529" height="329" frameX="-227" frameY="-287" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0016" x="1217" y="0" width="529" height="348" frameX="-227" frameY="-268" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0017" x="1147" y="348" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0018" x="1147" y="544" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0019" x="912" y="740" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0020" x="912" y="740" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0021" x="912" y="936" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0022" x="912" y="1132" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0023" x="0" y="1331" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0024" x="529" y="1328" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Death0025" x="1058" y="1328" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="NotchGod Retry0000" x="971" y="1524" width="451" height="521" frameX="-96" frameY="-208" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0001" x="0" y="1527" width="449" height="526" frameX="-98" frameY="-204" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0002" x="0" y="777" width="467" height="554" frameX="-89" frameY="-186" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0003" x="467" y="777" width="445" height="537" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0004" x="467" y="777" width="445" height="537" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0005" x="467" y="777" width="445" height="537" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0006" x="467" y="777" width="445" height="537" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="NotchGod Retry0007" x="467" y="777" width="445" height="537" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+</TextureAtlas>
