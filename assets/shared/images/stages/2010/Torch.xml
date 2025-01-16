@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="torch.png">
+<SubTexture name="torch0000" x="0" y="0" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0001" x="0" y="195" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0002" x="0" y="390" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0003" x="0" y="585" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0004" x="949" y="0" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0005" x="949" y="195" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0006" x="949" y="390" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0007" x="949" y="585" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0008" x="0" y="780" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0009" x="949" y="780" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0010" x="0" y="975" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="torch0011" x="949" y="975" width="949" height="195" frameX="-470" frameY="-418" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
