@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="songs.png" width="803" height="800">
+	<SubTexture name="a-familiar-face0" x="1" y="1" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="apparition0" x="1" y="74" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="danger0" x="1" y="220" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="danger-og0" x="1" y="147" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="dead-brother0" x="1" y="293" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="demise0" x="1" y="366" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="empty-eyes0" x="1" y="439" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="exitium0" x="442" y="1" width="68" height="436" rotated="true" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="memory-leak0" x="1" y="512" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="new-world0" x="515" y="1" width="68" height="436" rotated="true" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="recreated0" x="1" y="585" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="removed0" x="588" y="1" width="68" height="436" rotated="true" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="scopophobia0" x="1" y="658" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="shadows0" x="661" y="1" width="68" height="436" rotated="true" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="snapshot0" x="1" y="731" width="436" height="68" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+	<SubTexture name="unknown-being0" x="734" y="1" width="68" height="436" rotated="true" frameX="-0" frameY="-0" frameWidth="436" frameHeight="68"/>
+</TextureAtlas>
