@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="notchDead.png" width="2401" height="2291">
+	<SubTexture name="Notch Death0000" x="618" y="1865" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0001" x="1147" y="2011" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0002" x="1147" y="2011" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0003" x="618" y="2061" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0004" x="0" y="2095" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0005" x="1676" y="2011" width="529" height="196" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0006" x="2173" y="975" width="196" height="529" rotated="true" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0007" x="2205" y="1504" width="196" height="529" rotated="true" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0008" x="1059" y="1417" width="515" height="448" rotated="true" frameX="-9" frameY="-82" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0009" x="538" y="1395" width="521" height="444" rotated="true" frameX="-11" frameY="-76" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0010" x="1156" y="521" width="525" height="444" rotated="true" frameX="-13" frameY="-71" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0011" x="0" y="0" width="472" height="567" frameX="-55" frameY="-30" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0012" x="472" y="0" width="504" height="523" frameX="-188" frameY="-95" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0013" x="538" y="968" width="565" height="427" frameX="-247" frameY="-186" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0014" x="0" y="567" width="619" height="401" frameX="-252" frameY="-209" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0015" x="1427" y="0" width="644" height="357" frameX="-231" frameY="-253" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0016" x="1681" y="357" width="282" height="652" rotated="true" frameX="-223" frameY="-344" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0017" x="1681" y="357" width="282" height="652" rotated="true" frameX="-223" frameY="-344" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0018" x="1681" y="357" width="282" height="652" rotated="true" frameX="-223" frameY="-344" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0019" x="1681" y="357" width="282" height="652" rotated="true" frameX="-223" frameY="-344" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0020" x="1681" y="357" width="282" height="652" rotated="true" frameX="-223" frameY="-344" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0021" x="1963" y="357" width="238" height="618" rotated="true" frameX="-227" frameY="-378" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0022" x="0" y="1839" width="618" height="256" frameX="-227" frameY="-360" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0023" x="1574" y="1728" width="605" height="283" frameX="-227" frameY="-333" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0024" x="1574" y="1417" width="599" height="311" frameX="-227" frameY="-305" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0025" x="1629" y="1009" width="529" height="329" frameX="-227" frameY="-287" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0026" x="0" y="1426" width="529" height="348" frameX="-227" frameY="-268" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Death0027" x="2201" y="0" width="196" height="529" rotated="true" frameX="-227" frameY="-420" frameWidth="875" frameHeight="630"/>
+	<SubTexture name="Notch Retry0000" x="976" y="0" width="451" height="521" frameX="-96" frameY="-208" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0001" x="1103" y="968" width="526" height="449" rotated="true" frameX="-98" frameY="-204" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0002" x="619" y="523" width="537" height="445" rotated="true" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0003" x="619" y="523" width="537" height="445" rotated="true" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0004" x="619" y="523" width="537" height="445" rotated="true" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0005" x="619" y="523" width="537" height="445" rotated="true" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0006" x="619" y="523" width="537" height="445" rotated="true" frameX="-100" frameY="-192" frameWidth="630" frameHeight="896"/>
+	<SubTexture name="Notch Retry0007" x="0" y="968" width="538" height="458" rotated="true" frameX="-45" frameY="-1029" frameWidth="717" frameHeight="1575"/>
+</TextureAtlas>
